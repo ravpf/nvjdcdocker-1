@@ -7,6 +7,10 @@
 
     我自己的docker  nolanhzy/nvjdc 认清楚
 
+##防跑提示
+
+已备份没有兰大佬的拥护，不怕跑路，文件未作修改为官方原版！感谢@NolanHzy
+
 ## 提示
 
 由于我自己的环境是centos x86，arm不支持
